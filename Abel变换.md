@@ -12,7 +12,8 @@ $$
 可以得到
 
 $$
- uv=\int u'vdx +\int uv'dx +C \\ 
- 
+ uv=\int u'vdx +\int uv'dx +C 
+$$
+$$
  uv-\int u'vdx = \int uv'dx +C \\
 $$
